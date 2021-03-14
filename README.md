@@ -20,3 +20,10 @@ Vytvořte program, který bude mít následující metody:
 - Na základě celého telefonního čísla vyhledá Kontakt
 - Na základě jména nebo příjmení najde seznam záznamů
 - Na základě části telefonního čísla najde seznam záznamů, které obsahuje onu část telefonního čísla
+
+
+## Bonus
+Jako bonus se zkuste zamyslet, jak řešit možnosti uživatelských úprav seznamu kontaktů a dopad na funkcionalitu. 
+Umožníte dplicitní záznamy? 
+Co budete považovat za duplicitní záznamy v případě, že `Kontakt` rozšíříte o další pole jako Adresa nebo druhé telefonní číslo?
+Máte představu, jak to bude fungovat, když těch záznamů budete mít v několik tisíc? A co když celý veřejný telefonní seznam?
